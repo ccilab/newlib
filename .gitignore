@@ -1,0 +1,2 @@
+# ignore newlib_build folder
+newlib_build/
